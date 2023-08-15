@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luiz Lima</h1>
 <h3 align="center">I'm a Junior Full Stack Developer with a background in sales, forex, and blockchain. For a long time passionate about programming and everything tech related.</h3>
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/luiz-limm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luiz-limm/" height="30" width="40" /></a>
