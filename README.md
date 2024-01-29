@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luiz Lima</h1>
-<h3 align="center">I'm a Junior Full Stack Developer with a background in sales, forex, and blockchain. For a long time passionate about programming and everything tech related.</h3>
+<h3 align="center">I'm a Full Stack Developer with a background in Sales, Forex, and Blockchain. For a long time passionate about programming and everything tech related.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
